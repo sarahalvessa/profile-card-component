@@ -1,0 +1,149 @@
+.img-top
+    {
+      position: absolute;
+      margin-top: -700px;
+      margin-left: -500px;
+      
+    }
+
+
+    body
+    {
+      font-family: sans-serif;
+      background: hsl(185, 75%, 39%);
+    }
+
+    .main
+    {
+      border-radius: 10px;
+      width: 290px;
+      height: 300px;
+      margin: 150px auto;
+      background-color: white;
+    }
+
+    .img
+    {
+      width: 290px;
+      height: 100px;
+      border-radius:10px 10px 0 0;
+    }
+
+    .img1
+    {
+      position: relative;
+      margin-top: -57px;
+      margin-left: 90px;
+      border-radius:50px;
+      border: 5px solid white;
+    }
+
+    .title1
+    {
+      display: inline-block;
+      margin-top: 5px;
+      margin-left: 85px;
+      font-size: 18px;
+    }
+
+    .date
+    {
+    display: inline-block;
+    color: rgb(88, 86, 86);
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 5px;
+    }
+
+    .text1
+    {
+      margin-left:120px;
+      margin-top: -10px;
+      width: 50px;
+      color: rgb(88, 86, 86);
+    }
+
+    .footer
+    {
+      border-top:1px solid rgba(173, 164, 164, 0.308);
+    }
+
+    .footer1
+    {
+      display: inline-block;
+      height: 50px;
+      margin-left: 30px;
+      margin-top: 15px;
+    }
+
+    .title-footer1
+    {
+      position: absolute;
+      margin-top: 5px;
+      margin-left: 14px;
+      font-size: 20px;
+    }
+
+    .text-footer1{
+      margin-top: 30px;
+      font-size: 15px;
+      color: rgb(88, 86, 86);
+    }
+
+    .footer2
+    {
+      display: inline-block;
+      height: 50px;
+      width: 45px;
+      margin-left: 25px;
+      margin-top: 15px;
+    }
+
+    .title-footer2
+    {
+      position: absolute;
+      margin-top: 5px;
+      margin-left: 1px;
+      font-size: 20px;
+    }
+
+    .text-footer2{
+      margin-top: 30px;
+      font-size: 15px;
+      color: rgb(88, 86, 86);
+      margin-left: 7px;
+    }
+
+    .footer3
+    {
+      display: inline-block;
+      height: 50px;
+      width: 40px;
+      margin-left: 30px;
+      margin-top: 15px;
+    }
+
+    .title-footer3
+    {
+      position: absolute;
+      margin-top: 5px;
+      font-size: 20px;
+      margin-left: 1px;
+    }
+
+    .text-footer3
+    {
+      margin-top: 30px;
+      font-size: 15px;
+      color: rgb(88, 86, 86);
+      margin-left: 1px;
+    }
+
+    .img-bottom
+    {
+      position: fixed;
+      margin-top: -100px;
+      margin-left: 200px;
+      
+
+    }
